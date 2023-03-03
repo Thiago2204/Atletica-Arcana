@@ -1,7 +1,32 @@
 # Personagens 
 
 ### Herói 
-- Composto pela protagonista controlada pelo player via _inputs_ do teclado.
+
+- Composto pela protagonista controlada pelo player via _imputs_ do teclado.
+
+|Itens|Dados|
+| ------------- | ------------- | 
+|Nome:|  | 
+|Idade:|  | 
+|Nacionalidade:|  | 
+|Esporte:|  | 
+|Descrição:|  | 
+|Personalidade:|  | 
+|Conquistas:|  | 
+|Objetivos:|  | 
+
+
 
 ### Vilão 
-- Sendo um _NPC_ com comandos simples pré programados para dificultar a vida do player.
+- Sendo um _NPC_ com comandos simples, com movimentos pré programados para dificultar a vida do player.
+
+|Itens|Dados|
+| ------------- | ------------- | 
+|Nome:|  | 
+|Idade:|  | 
+|Nacionalidade:|  | 
+|Cargo:|  | 
+|Descrição:|  | 
+|Personalidade:|  | 
+|Conquistas:|  | 
+|Objetivos:|  | 
