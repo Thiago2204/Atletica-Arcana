@@ -10,6 +10,7 @@
 |Idade:|  | 
 |Nacionalidade:|  | 
 |Esporte:|  | 
+|Treino:|  | 
 |Descrição:|  | 
 |Personalidade:|  | 
 |Conquistas:|  | 
