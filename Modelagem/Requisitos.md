@@ -1,38 +1,26 @@
 |Número do requisito|Classificação|Descrição|Possui Dependêcia ?|Esforço|Relevância|Risco|
 |-------------------|-------------|---------|-------------------|-------|----------|-----|
 |Um personagem jogável|RF|Um personagem que reaja aos inputs do jogador|Sim|Média|Alta|Baixa|
-Users Input
-RF
-inputs do jogador 
-Sim
-Média 
-Alta
-Baixa
-Cenário animado
-RF
-Cenário com assets que funcionem em loop
-Sim
-Média 
-Médio 
-Média
-HUD - Heads-Up Display
-RF
-HUD para alertar o jogador sobre informações do Game
-Sim
-Média 
-Médio 
-Alta
-Na tela inicial o jogador pode selecionar JOGO ou AJUDA
-RF
-Telas extras com um “manual” de como jogar para o usuário
-Sim
-Média 
-Baixa 
-Baixa
-A partida é finalizada caso o jogador atinja um obstáculo ou inimigo
-RF
-Caso haja o impacto com algo hostilidade jogo se encerrará 
-Sim
+|Users Input|RF|inputs do jogador devem ser aceitos pelo sistema|Sim|Média|Alta|Baixa|
+|Cenário animado|RF|Cenário com assets que funcionem em loop|Sim|Média|Média|Média|
+|HUD - Heads-Up Display
+|RF
+|HUD para alertar o jogador sobre informações do Game
+|Sim
+|Média 
+|Médio 
+|Alta
+|Na tela inicial o jogador pode selecionar JOGO ou AJUDA
+|RF
+|Telas extras com um “manual” de como jogar para o usuário
+|Sim
+|Média 
+|Baixa 
+|Baixa
+|A partida é finalizada caso o jogador atinja um obstáculo ou inimigo
+|RF
+|Caso haja o impacto com algo hostilidade jogo se encerrará 
+|Sim
 Baixa 
 Alta
 Média 
