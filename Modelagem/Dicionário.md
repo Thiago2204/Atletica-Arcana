@@ -1,4 +1,4 @@
-# Clientes fictício
+# Clientes fictícios
 
 ### Primeiro Cliente
 
