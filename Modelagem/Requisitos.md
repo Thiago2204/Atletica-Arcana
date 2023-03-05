@@ -1,6 +1,7 @@
 # Engenharia de Requisitos do jogo.
 
-### Nosso planejamento de features que devemos implementar em nosso jogo, pensado previamente e cautelosamente pela equipe.
+- ### Nosso planejamento de features que devemos implementar em nosso jogo, pensado previamente e cautelosamente pela equipe.
+
 
 |Número do requisito|Classificação|Descrição|Possui Dependêcia ?|Esforço|Relevância|Risco|
 |-------------------|-------------|---------|-------------------|-------|----------|-----|
