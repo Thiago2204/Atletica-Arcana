@@ -7,7 +7,7 @@
 - - [Requisitos](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/Requisitos.md)
 - [Tprojeto3_TelasWireframe](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/Wireframe.md)
 - [Tarefa_EAD_AnálisedeTarefas](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/análise_de_tarefas.md)
-- [Tarefa_WireframecomNavegacao]()
+- [Tarefa_WireframecomNavegacao](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/Wireframe.md)
 - [Tarefa - Aplicação de teste ]()
 
 ### Integrantes 
