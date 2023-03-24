@@ -6,51 +6,53 @@
 
 - Como o player joga ?
 
--- 1- Player clica no ícone de jogar 
--- 2- Sistema inicia o jogo
+- - 1- Player clica no ícone de jogar 
+- - 2- Sistema inicia o jogo
 
 
 - Como o player checa ranking ?
 
--- 1- Player clica no ícone de Ranking 
--- 2- Sistema abre a tela de Ranking 
+- - 1- Player clica no ícone de Ranking 
+- - 2- Sistema abre a tela de Ranking 
 
 
 - Como o player seleciona “Ajuda” ?
 
--- 1- Player clica no ícone de ajuda
--- 2- Sistema abre a tela de ajuda contendo instruções 
+- - 1- Player clica no ícone de ajuda
+- - 2- Sistema abre a tela de ajuda contendo instruções 
 
 
 - Como o player muda a língua ?
 
--- 1- Player Clica no ícone de configurações
--- 2- Sistema exibe a tela de configurações 
--- 3- Player clica na secção língua e seleciona a língua 
--- 4- Sistema atualiza a Língua 
+- - 1- Player Clica no ícone de configurações
+- - 2- Sistema exibe a tela de configurações 
+- - 3- Player clica na secção língua e seleciona a língua 
+- - 4- Sistema atualiza a Língua 
 
 
 ### B-Quais os questionamentos?
 
 
 - Qual o estilo de jogo ?
--- Runner.
+- - R = Runner.
 
 
 - Qual o estilo de arte utilizado no jogo ?
--- Pixel Art.
+- - R =  Pixel Art.
 
 
 - Quais línguas estarão disponíveis ?
--- O escopo original contempla Ingles e Portugues inicialmente.
+- - R = O escopo original contempla Ingles e Portugues inicialmente.
 
 - Qual o tipo de memória utilizada ?
--- Utilizaremos a memória interna do computador.
+- - R = Utilizaremos a memória interna do computador.
 
 
 ### 2-Criar o Modelo de Tarefas com GOMS (ao menos 2)
 
 ### 1 - 
+
+#### Metas:
 
 #### Operadores:
 
