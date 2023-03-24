@@ -19,7 +19,8 @@
 |Thiago Henrique Quadrado Estacio|42012740|
 
 ### Tema 
-- Jogos Olimpicos 2024 (Atletismo).
+- Jogos Olimpicos 2024 (COm foco no esporte de Atletismo).
 
 ### Descrição do Projeto 
-Um _Runner_ like com um estilo _Pixel-art_ com foco em atletismo onde a personagem principal vai correr e saltar obstáculos.
+Atlética Arcana é um jogo de plataforma _Runner-like_ feito em _pixel art_ com temática de Olímpiads, particularmente atletismo, cujo player character é um corredor das Olímpiadas e o gameplay consiste em correr e saltar obstáculos.
+O objetivo é conseguir a maior quantidade de pontos e o maior tempo possível durante a partida e o jogo inclui um `Ranking` com os maiores _scores/tempos_ conquistados, encorajando a competitividade entre seus jogadores. 
