@@ -17,8 +17,12 @@ Personalidade:| Sarah é uma atleta ferozmente competitiva, conhecida por sua de
 #### Cenário 1:
 
 David, um fã das Olimpíadas e ávido interessado em video games, está cada vez mais empolgado com a ideia de jogar algo sobre as Olimpíadas conforme ela vai se aproximando. Ele está em busca de um jogo que satisfaça seu espírito competitivo, que nunca recusa um bom desafio, então algum que tenha pontuação e tempo para que ele possa buscar ser o melhor, competindo contra outros jogadores que publicam seus highscores e melhores tempos. Até que ele encontra o Atlética Arcana, que satisfaz todos os seus critérios de jogo que ele gostaria de jogar naquele momento.
-
-
+- David entra no jogo e clica no botão de _jogar_.
+- O sistema o direciona para a tela do jogo.
+- David começa a jogar até acertar um obstáculo.
+- Sistema contabiliza a morte 
+- Sistema guarda os pontos de David localmente 
+- Fim da interação.
 
 #### Segundo Cliente
 
@@ -38,3 +42,11 @@ David, um fã das Olimpíadas e ávido interessado em video games, está cada ve
 #### Cenário 2:
 
 Sofia está sempre buscando por novos jogos pois é uma verdadeira aficionada por ter novas experiências em geral, particularmente com games, um dos seus maiores hobbies, e com as Olimpíadas cada vez mais perto ela passou a procurar por jogos com essa temática. Em especial, aqueles que tenham mais coisas para descobrir, que demoram para serem dominados e que exijam mais reflexos, já que são aspectos que ela aprecia muito quando estão presentes em jogos. Ao encontrar o Atlética Arcana, ela imediatamente se interessou por ser diferente do usual e ser extremamente compatível com os gostos dela, ainda mais com a presença de highscores e melhores tempos, visto que permitem que ela observe fácil e objetivamente o quanto ela melhorou desde que começou a jogar.
+- Sofia clica no botão de _Ranking_.
+- Sofia Decide tentar bater o Recorde e clica em _voltar_
+- O sistema a direciona para a tela inicial
+- Sofia clica em _jogar_
+- Sietma a direciona para a tela de jogo.
+- Sofia começa a jogar.
+- Fim da interação 
+- O sietma a direciona para a tela com os maiores ranmings.
