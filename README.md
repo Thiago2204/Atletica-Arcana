@@ -22,4 +22,4 @@
 - Jogos Olimpicos 2024 (Atletismo).
 
 ### Descrição do Projeto 
-_ Um Runner like com um estilo Pixel-art com foco em atletismo onde a personagem principal vai correr e saltar obstáculos.
+Um _Runner_ like com um estilo _Pixel-art_ com foco em atletismo onde a personagem principal vai correr e saltar obstáculos.
