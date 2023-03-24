@@ -5,7 +5,7 @@
 - [TProjeto1_Entrega](https://github.com/Thiago2204/Atletica-Arcana/blob/main/README.md)
 - [TProjeto2_CenariosPersonas](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/Dicionário.md)
 - - [Requisitos](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/Requisitos.md)
-- [Tprojeto3_TelasWireframe]()
+- [Tprojeto3_TelasWireframe](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/Wireframe.md)
 - [Tarefa_EAD_AnálisedeTarefas](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/análise_de_tarefas.md)
 - [Tarefa_WireframecomNavegacao]()
 - [Tarefa - Aplicação de teste ]()
