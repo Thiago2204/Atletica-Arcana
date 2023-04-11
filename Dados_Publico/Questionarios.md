@@ -76,6 +76,7 @@ Eu soube como navegar e buscar informações sem muita dificuldade | | | |
 Consegui distinguir facilmente entre cenário de fundo, plataformas, coletáveis e obstáculos | | | |
 
 **Questões não estruturadas**
+
 Você se sentiu frustrado com alguma coisa durante as partidas?
 
 ```
