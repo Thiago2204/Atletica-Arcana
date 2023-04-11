@@ -6,17 +6,23 @@ ALUNO 3: Thiago Henrique Quadrado Estacio –  TIA: 42012740
 
 PRODUTO: Atlética Arcana || DISPOSITIVO: PC
 
+
 **ROTEIRO DO AVALIADOR**
+
 Olá, meu nome é `___________`, estou trabalhando em um jogo tematizado para as Olimpíadas de 2024 chamado Atlética Arcana. Nosso objetivo com esta entrevista é realizar um estudo de usabilidade do jogo, ao encontrar problemas que poderão impactar em seu uso, antes que ele seja lançado oficialmente. O teste vai durar aproximadamente `__________` minutos. Você poderá fazer perguntas a qualquer momento que estarei pronto para respondê-las. Ressalta-se que não estamos testando você, e sim, a usabilidade do jogo. Você será observado pelo nosso pesquisador `______________`, que estará anotando todas as suas dúvidas. Inicialmente, farei umas perguntas sobre você. Em seguida, vou pedir que você realize ações no jogo. E, por último, irei fazer perguntas relacionadas à sua jogatina e experiência de uso. Todos os seus dados serão mantidos em sigilo e serão utilizados apenas para esta pesquisa.
 
+
 **MATERIAL DO OBSERVADOR**
+
 O observador tem como objetivo tomar nota das dificuldades, dos problemas, das questões e dos comentários que foram feitos pelo usuário. Desta forma, o material necessário para esta função é  um caderno de anotações ou computador com os seguintes tópicos presentes:
 - Dificuldades do Usuário;
 - Queixas feitas;
 - Ações que demoraram mais para serem feitas;
 - Reações e emoções observadas durante o teste.
 
+
 **MATERIAL DO FACILITADOR**
+
 O facilitador requisitará do usuário que realize determinadas ações na aplicação. Porém, inicialmente é vital que o facilitador apenas mostre a primeira tela do aplicativo e peça ao usuário que o utilize; caso identifique que o usuário esteja “travado”, ele pode sugerir as ações na ordem abaixo:
 - Busque as instruções do jogo;
 - Abaixe o som do jogo;
@@ -80,5 +86,30 @@ Possui alguma ideia de representatividade para a sua cultura?
 
 ```
 
+```
+
+Há alguma sugestão de funcionalidade que gostaria de ver no jogo?
 
 ```
+
+```
+
+Análise dos Resultados
+(Apresentar e discutir os dados coletados no pré-teste e pós-teste). Apresentar as conclusões e sugerir as melhorias do aplicativo.
+
+```
+
+
+
+
+
+
+
+
+```
+
+---
+
+# GRAVAÇÃO DA APLICAÇÃO DE TESTE
+
+[Link do vídeo no YouTube]([url](https://youtu.be/iFGoieGy7Bo))
