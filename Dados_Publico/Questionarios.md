@@ -9,7 +9,7 @@
 
 **ROTEIRO DO AVALIADOR**
 
-Olá, meu nome é `___________`, estou trabalhando em um jogo tematizado para as Olimpíadas de 2024 chamado Atlética Arcana. Nosso objetivo com esta entrevista é realizar um estudo de usabilidade do jogo, ao encontrar problemas que poderão impactar em seu uso, antes que ele seja lançado oficialmente. O teste vai durar aproximadamente `__________` minutos. Você poderá fazer perguntas a qualquer momento que estarei pronto para respondê-las. Ressalta-se que não estamos testando você, e sim, a usabilidade do jogo. Você será observado pelo nosso pesquisador `______________`, que estará anotando todas as suas dúvidas. Inicialmente, farei umas perguntas sobre você. Em seguida, vou pedir que você realize ações no jogo. E, por último, irei fazer perguntas relacionadas à sua jogatina e experiência de uso. Todos os seus dados serão mantidos em sigilo e serão utilizados apenas para esta pesquisa.
+Olá, meu nome é `           `, estou trabalhando em um jogo tematizado para as Olimpíadas de 2024 chamado Atlética Arcana. Nosso objetivo com esta entrevista é realizar um estudo de usabilidade do jogo, ao encontrar problemas que poderão impactar em seu uso, antes que ele seja lançado oficialmente. O teste vai durar aproximadamente `    ` minutos. Você poderá fazer perguntas a qualquer momento que estarei pronto para respondê-las. Ressalta-se que não estamos testando você, e sim, a usabilidade do jogo. Você será observado pelo nosso pesquisador `              `, que estará anotando todas as suas dúvidas. Inicialmente, farei umas perguntas sobre você. Em seguida, vou pedir que você realize ações no jogo. E, por último, irei fazer perguntas relacionadas à sua jogatina e experiência de uso. Todos os seus dados serão mantidos em sigilo e serão utilizados apenas para esta pesquisa.
 
 
 **MATERIAL DO OBSERVADOR**
@@ -34,11 +34,11 @@ O facilitador requisitará do usuário que realize determinadas ações na aplic
 
 # QUESTIONÁRIO DE PRÉ-TESTE
 
-Nome do Participante 1: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  `  `   •Fem  `  `
+Nome do Participante 1: `                                 `   Idade: `          `      Sexo:    •  Mas  `  `   •Fem  `  `
 
-Nome do Participante 2: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  `  `   •Fem  `  `
+Nome do Participante 2: `                                 `   Idade: `          `      Sexo:    •  Mas  `  `   •Fem  `  `
 
-Nome do Participante 3: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  `  `   •Fem  `  `
+Nome do Participante 3: `                                 `   Idade: `          `      Sexo:    •  Mas  `  `   •Fem  `  `
 
 
 
