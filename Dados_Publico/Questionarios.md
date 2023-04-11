@@ -28,9 +28,12 @@ O facilitador requisitará do usuário que realize determinadas ações na aplic
 
 # QUESTIONÁRIO DE PRÉ-TESTE
 
-Nome do Participante 1: _________________________________   Idade: __________      Sexo:    •  Mas       •Fem
-Nome do Participante 2: _________________________________   Idade: __________      Sexo:    •  Mas       •Fem
-Nome do Participante 3: _________________________________   Idade: __________      Sexo:    •  Mas       •Fem
+Nome do Participante 1: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  [ ]   •Fem  [ ]
+
+Nome do Participante 2: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  [ ]   •Fem  [ ]
+
+Nome do Participante 3: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  [ ]   •Fem  [ ]
+
 
 
 |    | P1 | P2 | P3 |
@@ -70,12 +73,12 @@ Consegui distinguir facilmente entre cenário de fundo, plataformas, coletáveis
 Você se sentiu frustrado com alguma coisa durante as partidas?
 
 ```
-________________________________________________________
+
 ```
 
 Possui alguma ideia de representatividade para a sua cultura?
 
 ```
-________________________________________________________
+
 
 ```
