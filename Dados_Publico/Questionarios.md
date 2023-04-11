@@ -1,10 +1,10 @@
-ALUNO 1: Amanda Laís Xavier Fontes – TIA: 31949436
+**ALUNO 1:** Amanda Laís Xavier Fontes – TIA: 31949436
 
-ALUNO 2: Ryan Marco Andrade dos Santos – TIA: 42080223
+**ALUNO 2:** Ryan Marco Andrade dos Santos – TIA: 42080223
 
-ALUNO 3: Thiago Henrique Quadrado Estacio –  TIA: 42012740
+**ALUNO 3:** Thiago Henrique Quadrado Estacio –  TIA: 42012740
 
-PRODUTO: Atlética Arcana || DISPOSITIVO: PC
+**PRODUTO:** Atlética Arcana || **DISPOSITIVO:** PC
 
 
 **ROTEIRO DO AVALIADOR**
@@ -34,11 +34,11 @@ O facilitador requisitará do usuário que realize determinadas ações na aplic
 
 # QUESTIONÁRIO DE PRÉ-TESTE
 
-Nome do Participante 1: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  [ ]   •Fem  [ ]
+Nome do Participante 1: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  `  `   •Fem  `  `
 
-Nome do Participante 2: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  [ ]   •Fem  [ ]
+Nome do Participante 2: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  `  `   •Fem  `  `
 
-Nome do Participante 3: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  [ ]   •Fem  [ ]
+Nome do Participante 3: `_________________________________`   Idade: `__________`      Sexo:    •  Mas  `  `   •Fem  `  `
 
 
 
@@ -111,5 +111,4 @@ Análise dos Resultados
 ---
 
 # GRAVAÇÃO DA APLICAÇÃO DE TESTE
-
-[Link do vídeo no YouTube]([url](https://youtu.be/iFGoieGy7Bo))
+[Link do vídeo no YouTube](https://youtu.be/iFGoieGy7Bo))
