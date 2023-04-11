@@ -111,4 +111,4 @@ Análise dos Resultados
 ---
 
 # GRAVAÇÃO DA APLICAÇÃO DE TESTE
-[Link do vídeo no YouTube](https://youtu.be/iFGoieGy7Bo))
+[Link do vídeo no YouTube](https://youtu.be/iFGoieGy7Bo)
