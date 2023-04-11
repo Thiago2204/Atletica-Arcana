@@ -58,7 +58,7 @@ Nome do Participante 3: `                                 `   Idade: `          
 Conte-nos uma memória emocionante sua relacionada à jogos:
 
 ```
-________________________________________________________
+
 ```
 
 ---
@@ -67,7 +67,7 @@ ________________________________________________________
 
 As questões abaixo são respondidas pela escala Likert, como se segue:
 
-(a) Discordo Completamente (b) Discordo (c) Neutro (d) Concordo (e) Concordo Completamente
+*(a) Discordo Completamente (b) Discordo (c) Neutro (d) Concordo (e) Concordo Completamente*
 |  Questões na Escala Likert  | P1 | P2 | P3 |
 | --------------------------- | -- | -- | -- |
 Os comandos foram precisos e não fiquei em dúvida de como utilizá-los | | | |
