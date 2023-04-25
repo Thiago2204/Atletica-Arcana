@@ -1,6 +1,6 @@
-# Projeto-IHC (Atlética Arcana)
+# Projeto-IHC (Atlética Arcana) 🏅
 
-### Entregas
+### Entregas 👟
 
 - [TProjeto1_Entrega](https://github.com/Thiago2204/Atletica-Arcana/blob/main/README.md)
 - [TProjeto2_CenariosPersonas](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Modelagem/Dicionário.md)
@@ -11,7 +11,7 @@
 - [Questionários](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Dados_Publico/Questionarios.md)
 - [Tarefa - Aplicação de teste ](https://github.com/Thiago2204/Atletica-Arcana/blob/main/Dados_Publico/Resultados.md)
 
-### Integrantes 
+### Integrantes 🌐
 
 |Nome|TIA|
 |----|---|
@@ -19,10 +19,10 @@
 |Ryan Marco Andrade dos Santos|42080223|
 |Thiago Henrique Quadrado Estacio|42012740|
 
-### Tema 
-- Jogos Olimpicos 2024 (COm foco no esporte de Atletismo).
+## Tema 🏃
+- Jogos Olimpicos 2024 (com foco no esporte de Atletismo).
 
-### Descrição do Projeto 
+### Descrição do Projeto 🎽
 Atlética Arcana é um jogo de plataforma _Runner-like_ feito em _pixel art_ com temática de Olímpiads, particularmente atletismo, cujo player character é um corredor das Olímpiadas e o gameplay consiste em correr e saltar obstáculos.
 O objetivo é conseguir a maior quantidade de pontos e o maior tempo possível durante a partida e o jogo inclui um `Ranking` com os maiores _scores/tempos_ conquistados, encorajando a competitividade entre seus jogadores. 
 
